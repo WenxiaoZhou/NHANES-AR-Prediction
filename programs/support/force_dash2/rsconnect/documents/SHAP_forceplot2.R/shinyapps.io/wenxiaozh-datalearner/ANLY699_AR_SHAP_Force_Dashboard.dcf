@@ -1,0 +1,10 @@
+name: ANLY699_AR_SHAP_Force_Dashboard
+title:
+username: wenxiaozh-datalearner
+account: wenxiaozh-datalearner
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15943574
+bundleId: 11122038
+url: https://wenxiaozh-datalearner.shinyapps.io/ANLY699_AR_SHAP_Force_Dashboard/
+version: 1
